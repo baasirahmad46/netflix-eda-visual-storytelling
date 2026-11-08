@@ -73,7 +73,7 @@ Python, pandas, NumPy, Matplotlib, Seaborn, Jupyter.
 
 ## Author
 
-Baasir Ahmad · [GitHub](https://github.com/baasirahmad46) · Medium article (link coming soon)
+Baasir Ahmad · [GitHub](https://github.com/baasirahmad46) ·
 
 ## License
 
